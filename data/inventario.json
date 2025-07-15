@@ -1,0 +1,7 @@
+[
+  { "nombre": "Laptop", "stock": 8 },
+  { "nombre": "Mouse", "stock": 0 },
+  { "nombre": "Teclado", "stock": 3 },
+  { "nombre": "Monitor", "stock": 0 },
+  { "nombre": "Cable HDMI", "stock": 12 }
+]
