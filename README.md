@@ -23,7 +23,7 @@ npm install
 npm run dev
 
 El servidor estará disponible en http://localhost:3000
-
+```
 ## Mejoras futuras
 
 - Endpoint `GET /inventario/analizar`
